@@ -18,3 +18,8 @@ sudo cp ptm /usr/local/bin
 ```
 ptm
 ```
+
+```
+ptm -t
+```
+open a paper with any PDFreader,select the en_text ,and ptm will translate it into zh
