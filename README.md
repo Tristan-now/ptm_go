@@ -8,7 +8,13 @@ sudo apt install xsel
 ```
 
 
-#### 2.Open an English document, run the program, and select Chinese and English mouse
+#### 2.download the latest realase version,and 
 ```
-go build main.go OR ./main translate
+sudo cp ptm /usr/local/bin
+```
+
+####3.open a terminal and run 
+
+```
+ptm
 ```
