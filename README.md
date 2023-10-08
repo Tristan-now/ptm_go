@@ -8,7 +8,7 @@ sudo apt install xsel
 ```
 
 
-#### 2.download the latest realase version,and 
+#### 2.download the latest release version,and 
 ```
 sudo cp ptm /usr/local/bin
 ```
