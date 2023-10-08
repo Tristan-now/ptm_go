@@ -13,7 +13,7 @@ sudo apt install xsel
 sudo cp ptm /usr/local/bin
 ```
 
-####3.open a terminal and run 
+#### 3.open a terminal and run 
 
 ```
 ptm
